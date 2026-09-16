@@ -1,0 +1,14 @@
+﻿{
+  "id": "eventViewer_sts2",
+  "name": "EventViewer",
+  "author": "monsoonification",
+  "description": "Slay the Spire 2 mod lets you view current event pool for upcoming events.",
+  "version": "v0.0.1",
+  "min_game_version": "0.107.0",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [
+    {"id": "BaseLib", "min_version": "3.4.5"}
+  ],
+  "affects_gameplay": false
+}

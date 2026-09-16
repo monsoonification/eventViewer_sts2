@@ -1,0 +1,6 @@
+﻿{
+  "EVENT_VIEWER-POOL.title": "Possible Events",
+  "EVENT_VIEWER-POOL.description": "{EventList}",
+  "EVENT_VIEWER-NO_EVENTS.title": "No Events Available",
+  "EVENT_VIEWER-NO_EVENTS.description": "The event pool is currently empty."
+}
