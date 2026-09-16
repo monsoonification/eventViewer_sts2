@@ -1,0 +1,5 @@
+C:\Users\monso\RiderProjects\eventViewer_sts2\bin\ExportRelease\net9.0\publish\eventViewer_sts2.dll
+C:\Users\monso\RiderProjects\eventViewer_sts2\bin\ExportRelease\net9.0\publish\eventViewer_sts2.pdb
+C:\Users\monso\RiderProjects\eventViewer_sts2\bin\ExportRelease\net9.0\publish\GodotSharp.dll
+C:\Users\monso\RiderProjects\eventViewer_sts2\bin\ExportRelease\net9.0\publish\GodotSharpEditor.dll
+C:\Users\monso\RiderProjects\eventViewer_sts2\bin\ExportRelease\net9.0\publish\eventViewer_sts2.deps.json

@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="031dc9ca-fbe4-480a-95df-fdb03bb0b2b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/eventViewer_sts2.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/eventViewer_sts2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/Debug/eventViewer_sts2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/ExportRelease/eventViewer_sts2.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/ExportRelease/eventViewer_sts2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/ExportRelease/eventViewer_sts2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/eventViewer_sts2.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/eventViewer_sts2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/bin/eventViewer_sts2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/eventViewer_sts2.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/eventViewer_sts2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/eventViewer_sts2.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/eventViewer_sts2.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/eventViewer_sts2.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/eventViewer_sts2.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/eventViewer_sts2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/eventViewer_sts2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/eventViewer_sts2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/eventViewer_sts2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/ref/eventViewer_sts2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/Debug/refint/eventViewer_sts2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/.NETCoreApp,Version=v9.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/PublishOutputs.10c24635c7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/eventViewer_sts2.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/eventViewer_sts2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/eventViewer_sts2.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/eventViewer_sts2.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/eventViewer_sts2.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/eventViewer_sts2.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/eventViewer_sts2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/eventViewer_sts2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/eventViewer_sts2.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/eventViewer_sts2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/eventViewer_sts2.genpublishdeps.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/eventViewer_sts2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/ref/eventViewer_sts2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ExportRelease/refint/eventViewer_sts2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/PublishOutputs.79dd913ad7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.genpublishdeps.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/eventViewer_sts2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/ref/eventViewer_sts2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/refint/eventViewer_sts2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.godot/mono/temp/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.eventViewer_sts2.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.eventViewer_sts2.dir/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.eventViewer_sts2/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.eventViewer_sts2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ExportRelease/net9.0/publish/GodotSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ExportRelease/net9.0/publish/GodotSharpEditor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ExportRelease/net9.0/publish/eventViewer_sts2.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ExportRelease/net9.0/publish/eventViewer_sts2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/ExportRelease/net9.0/publish/eventViewer_sts2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/net9.0/publish/GodotSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/net9.0/publish/GodotSharpEditor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/net9.0/publish/eventViewer_sts2.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/net9.0/publish/eventViewer_sts2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/net9.0/publish/eventViewer_sts2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.godot/editor/filesystem_cache10" beforeDir="false" afterPath="$PROJECT_DIR$/.godot/editor/filesystem_cache10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventViewer_sts2.json" beforeDir="false" afterPath="$PROJECT_DIR$/eventViewer_sts2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventViewer_sts2/localization/static_hover_tips.json" beforeDir="false" afterPath="$PROJECT_DIR$/eventViewer_sts2/localization/eng/static_hover_tips.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventViewer_sts2Code/MainFile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eventViewer_sts2Code/MainFile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eventViewer_sts2Code/MapButtonHoverPatch.cs" beforeDir="false" afterPath="$PROJECT_DIR$/eventViewer_sts2Code/MapButtonHoverPatch.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSON File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/73b63ee06c0a47bbb0d1b21f6d94222e94e200/33/31cebd21/RunManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/73b63ee06c0a47bbb0d1b21f6d94222e94e200/40/469ce96b/AscensionHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/73b63ee06c0a47bbb0d1b21f6d94222e94e200/45/bd7f75b9/NTopBar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/73b63ee06c0a47bbb0d1b21f6d94222e94e200/bf/9652441d/NTopBarMapButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/73b63ee06c0a47bbb0d1b21f6d94222e94e200/db/6fdb1a12/AscensionManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/73b63ee06c0a47bbb0d1b21f6d94222e94e200/e7/48a9fb5e/NHoverTipSet.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/eventViewer_sts2Code/MapButtonHoverPatch.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3J4WKbmqnJ2cOjpRlWhceLR43y1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Publish to folder.Publish eventViewer_sts2 to folder.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RunManager" selected="Publish to folder.Publish eventViewer_sts2 to folder">
+    <configuration name="Publish eventViewer_sts2 to folder" type="DotNetFolderPublish" factoryName="Publish to folder">
+      <riderPublish target_folder="$PROJECT_DIR$/bin/net9.0/publish" target_framework="net9.0" uuid_high="-4499472952083764820" uuid_low="2255129542950694322">
+        <runtimes>
+          <item value="Portable" />
+        </runtimes>
+      </riderPublish>
+      <method v="2" />
+    </configuration>
+    <configuration name="Debug GDScript (Running session)" type="GDSCRIPT_DEBUG_RUN_CONFIGURATION" factoryName="GdScriptRunFactory">
+      <option name="json" value="{&#10;  // Launch: &quot;Launch a new instance of the game&quot;,&#10;  // Attach: &quot;Attach to an already running game, which was started from the Godot Editor&quot;&#10;  &quot;request&quot; : &quot;Attach&quot;,&#10;  &quot;debugServer&quot; : 6006, // port should match the Debug Adapter port in the Godot Editor project settings.&#10;  &quot;scene&quot; : &quot;main&quot;, // main, current, res://path/to/file.tscn&#10;  &#10;  // &quot;playArgs&quot; : [ &quot;--editor&quot; ], // debugging a tool script&#10;  // &quot;playArgs&quot;: [&quot;--debug-collisions&quot;,&quot;--debug-navigation&quot;], // different options&#10;  &#10;  // one click deploy and debug via Godot Editor:&#10;  // &quot;platform&quot;: &quot;Android&quot;, // including Android, iOS, Web and W4 consoles&#10;  // &quot;device&quot;: &quot;0&quot;, // index of the device of a &quot;platform&quot; type&#10;}" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Player GDScript" type="GDSCRIPT_DEBUG_RUN_CONFIGURATION" factoryName="GdScriptRunFactory">
+      <option name="json" value="{&#10;  // Launch: &quot;Launch a new instance of the game&quot;,&#10;  // Attach: &quot;Attach to an already running game, which was started from the Godot Editor&quot;&#10;  &quot;request&quot; : &quot;Launch&quot;,&#10;  &quot;debugServer&quot; : 6006, // port should match the Debug Adapter port in the Godot Editor project settings.&#10;  &quot;scene&quot; : &quot;main&quot;, // main, current, res://path/to/file.tscn&#10;  &#10;  // &quot;playArgs&quot; : [ &quot;--editor&quot; ], // debugging a tool script&#10;  // &quot;playArgs&quot;: [&quot;--debug-collisions&quot;,&quot;--debug-navigation&quot;], // different options&#10;  &#10;  // one click deploy and debug via Godot Editor:&#10;  // &quot;platform&quot;: &quot;Android&quot;, // including Android, iOS, Web and W4 consoles&#10;  // &quot;device&quot;: &quot;0&quot;, // index of the device of a &quot;platform&quot; type&#10;}" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Editor" type="RunExe" factoryName=".NET Executable">
+      <option name="EXE_PATH" value="C:\Users\monso\Desktop\megadot\MegaDot_v4.5.1-stable_mono_win64.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--path &quot;./&quot; --editor" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\monso\RiderProjects\eventViewer_sts2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="RUNTIME_TYPE" value="coreclr" />
+      <method v="2">
+        <option name="Build Solution" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Player" type="RunExe" factoryName=".NET Executable">
+      <option name="EXE_PATH" value="C:\Users\monso\Desktop\megadot\MegaDot_v4.5.1-stable_mono_win64.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--path &quot;./&quot;" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\monso\RiderProjects\eventViewer_sts2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="AUTO_ATTACH_CHILDREN" value="0" />
+      <option name="RUNTIME_TYPE" value="coreclr" />
+      <method v="2">
+        <option name="Build Solution" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Editor" type="RunNativeExe" factoryName="Native Executable">
+      <option name="EXE_PATH" value="C:\Users\monso\Desktop\megadot\MegaDot_v4.5.1-stable_mono_win64.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--path &quot;./&quot; --editor" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\monso\RiderProjects\eventViewer_sts2" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="ENV_FILE_PATHS" value="" />
+      <option name="REDIRECT_INPUT_PATH" value="" />
+      <option name="MIXED_MODE_DEBUG" value="0" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="031dc9ca-fbe4-480a-95df-fdb03bb0b2b8" name="Changes" comment="" />
+      <created>1788920758230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788920758230</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.OperationCanceledException" breakIfHandledByOtherCode="false" displayValue="System.OperationCanceledException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.Tasks.TaskCanceledException" breakIfHandledByOtherCode="false" displayValue="System.Threading.Tasks.TaskCanceledException" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="DotNet_Exception_Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" breakIfHandledByOtherCode="false" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

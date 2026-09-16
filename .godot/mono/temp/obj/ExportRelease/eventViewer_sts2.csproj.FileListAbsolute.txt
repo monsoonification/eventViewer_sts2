@@ -1,0 +1,12 @@
+C:\Users\monso\RiderProjects\eventViewer_sts2\.godot\mono\temp\bin\ExportRelease\eventViewer_sts2.deps.json
+C:\Users\monso\RiderProjects\eventViewer_sts2\.godot\mono\temp\bin\ExportRelease\eventViewer_sts2.dll
+C:\Users\monso\RiderProjects\eventViewer_sts2\.godot\mono\temp\bin\ExportRelease\eventViewer_sts2.pdb
+C:\Users\monso\RiderProjects\eventViewer_sts2\.godot\mono\temp\obj\ExportRelease\eventViewer_sts2.csproj.AssemblyReference.cache
+C:\Users\monso\RiderProjects\eventViewer_sts2\.godot\mono\temp\obj\ExportRelease\eventViewer_sts2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monso\RiderProjects\eventViewer_sts2\.godot\mono\temp\obj\ExportRelease\eventViewer_sts2.AssemblyInfoInputs.cache
+C:\Users\monso\RiderProjects\eventViewer_sts2\.godot\mono\temp\obj\ExportRelease\eventViewer_sts2.AssemblyInfo.cs
+C:\Users\monso\RiderProjects\eventViewer_sts2\.godot\mono\temp\obj\ExportRelease\eventViewer_sts2.csproj.CoreCompileInputs.cache
+C:\Users\monso\RiderProjects\eventViewer_sts2\.godot\mono\temp\obj\ExportRelease\eventViewer_sts2.dll
+C:\Users\monso\RiderProjects\eventViewer_sts2\.godot\mono\temp\obj\ExportRelease\refint\eventViewer_sts2.dll
+C:\Users\monso\RiderProjects\eventViewer_sts2\.godot\mono\temp\obj\ExportRelease\eventViewer_sts2.pdb
+C:\Users\monso\RiderProjects\eventViewer_sts2\.godot\mono\temp\obj\ExportRelease\ref\eventViewer_sts2.dll

@@ -38,8 +38,9 @@ public static class MapButtonHoverPatch
     {
         var hoverTips = new List<IHoverTip>();
 
-        var eventPool = MainFile.GetCurrentEventPool();
-        if (eventPool == null || eventPool.Count == 0)
+        // Use the filtered "available" list instead of the full pool
+        var availableEvents = MainFile.GetAvailableEvents();
+        if (availableEvents == null || availableEvents.Count == 0)
         {
             hoverTips.Add(new HoverTip(
                 new LocString("static_hover_tips", "EVENT_VIEWER-NO_EVENTS.title"),
@@ -49,26 +50,22 @@ public static class MapButtonHoverPatch
         }
 
         var eventListText = new System.Text.StringBuilder();
-        var currentIndex = MainFile.GetCurrentEventIndex();
-        var eventsVisited = MainFile.GetEventsVisited();
 
+        // Show total available only — the "visited" count was unreliable
         eventListText.AppendLine(
-            $"[color=#8888ff]Pool Size:[/color] {eventPool.Count}    " +
-            $"[color=#8888ff]Visited:[/color] {eventsVisited}");
+            $"[color=#8888ff]Available Events:[/color] {availableEvents.Count}");
         eventListText.AppendLine();
 
-        for (int i = 0; i < eventPool.Count; i++)
+        for (int i = 0; i < availableEvents.Count; i++)
         {
-            var eventModel = eventPool[i];
-            string status = MainFile.GetEventStatus(eventModel);
-            string prefix = (i == currentIndex) ? "[color=#ffcc00]→[/color] " : "  ";
-            eventListText.AppendLine(
-                $"{prefix}[color=#88ccff]{eventModel.Id.Entry}[/color]{status}");
+            var eventModel = availableEvents[i];
+            string displayName = MainFile.GetEventDisplayName(eventModel);
+
+            eventListText.AppendLine($"  [color=#88ccff]{displayName}[/color]");
         }
 
         eventListText.AppendLine();
-        eventListText.AppendLine(
-            "[color=#666666]→ = next event  •  ALLOWED / BLOCKED / SEEN[/color]");
+        eventListText.AppendLine("[color=#666666]Unvisited & allowed events[/color]");
 
         var desc = new LocString("static_hover_tips", "EVENT_VIEWER-POOL.description");
         desc.Add("EventList", eventListText.ToString());
