@@ -55,7 +55,7 @@ public static class MapButtonHoverPatch
         if (odds != null)
         {
             eventListText.AppendLine(
-                $"[color=#66ff66]Event Chance[/color] " +
+                $"[color=#66ff66]Event[/color] " +
                 $"[color=#ffffff]{odds.EventOdds * 100f:F0}%[/color]\n" + 
                 $"[color=#ff5555]Combat[/color] {odds.MonsterOdds * 100f:F0}%\n" +
                 $"[color=#5599ff]Shop[/color] {odds.ShopOdds * 100f:F0}%\n" +
