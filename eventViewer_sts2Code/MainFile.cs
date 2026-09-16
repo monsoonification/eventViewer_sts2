@@ -24,6 +24,23 @@ public partial class MainFile : Node
 
         Logger.Info("Event Viewer mod initialized!");
     }
+    
+    // this should fetch the odds of the event node from runState
+    public static MegaCrit.Sts2.Core.Odds.UnknownMapPointOdds? GetUnknownMapPointOdds()
+    {
+        try
+        {
+            var runState = RunManager.Instance?.DebugOnlyGetState();
+            if (runState == null) return null;
+
+            return runState.Odds?.UnknownMapPoint;
+        }
+        catch (System.Exception ex)
+        {
+            Logger.Error($"Error getting unknown map point odds: {ex.Message}");
+            return null;
+        }
+    }
 
     public static List<MegaCrit.Sts2.Core.Models.EventModel>? GetCurrentEventPool()
     {

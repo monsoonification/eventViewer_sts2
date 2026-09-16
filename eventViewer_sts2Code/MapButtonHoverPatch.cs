@@ -51,21 +51,28 @@ public static class MapButtonHoverPatch
 
         var eventListText = new System.Text.StringBuilder();
 
-        // Show total available only — the "visited" count was unreliable
+        var odds = MainFile.GetUnknownMapPointOdds();
+        if (odds != null)
+        {
+            eventListText.AppendLine(
+                $"[color=#66ff66]Event Chance[/color] " +
+                $"[color=#ffffff]{odds.EventOdds * 100f:F0}%[/color]\n" + 
+                $"[color=#ff5555]Combat[/color] {odds.MonsterOdds * 100f:F0}%\n" +
+                $"[color=#5599ff]Shop[/color] {odds.ShopOdds * 100f:F0}%\n" +
+                $"[color=#ffcc44]Chest[/color] {odds.TreasureOdds * 100f:F0}%");
+            eventListText.AppendLine();
+        }
+        
         eventListText.AppendLine(
-            $"[color=#8888ff]Available Events:[/color] {availableEvents.Count}");
-        eventListText.AppendLine();
+            $"[color=#66ff66]Available Events:[/color] {availableEvents.Count}");
 
         for (int i = 0; i < availableEvents.Count; i++)
         {
             var eventModel = availableEvents[i];
             string displayName = MainFile.GetEventDisplayName(eventModel);
 
-            eventListText.AppendLine($"  [color=#88ccff]{displayName}[/color]");
+            eventListText.AppendLine($"  [color=#4a8a4a]{displayName}[/color]");
         }
-
-        eventListText.AppendLine();
-        eventListText.AppendLine("[color=#666666]Unvisited & allowed events[/color]");
 
         var desc = new LocString("static_hover_tips", "EVENT_VIEWER-POOL.description");
         desc.Add("EventList", eventListText.ToString());
